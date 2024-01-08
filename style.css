@@ -1,0 +1,28 @@
+input{
+    display: block;
+}
+p{
+    font-family: Roboto, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.video-thumbnail{
+    width: 100%;
+    
+}
+.video-profile{
+    margin: 0px;
+    width: 100%;
+    border-radius: 50px;
+}
+.video-title{
+    font-weight: 500;
+    width: 100%;
+    line-height: 20px;
+}
+.video-channel, .video-stat{
+    color: rgb(96,96,96);
+    font-size: 14px;
+    margin-top: 8px;
+}

@@ -1,0 +1,26 @@
+.full{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
+}
+.preview{ 
+
+}
+.thumbnail{
+    margin-bottom: 10px;
+}
+.video-info{
+   display: grid;
+   grid-template-columns: 50px 1fr;
+   column-gap: 10px;
+  
+}
+.profile{
+    vertical-align: top;
+    width: 50px;
+    margin-right: 10px;
+}
+.texts{
+    vertical-align: top;
+}
